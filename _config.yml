@@ -31,7 +31,7 @@ github_username:  tabassumn
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
-paginate: 5
+paginate: 2
 google_analytics: UA-175058241-1
 #Sidebar link settings
 sidebar_home_link: true
