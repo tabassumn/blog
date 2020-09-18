@@ -7,7 +7,7 @@ bibliography: [one.bib]
 link-citations: true
 ---
 
-One of the greatest barriers to pracitising science in the developing world is the lack of access to expensive analytical instruments and equipment, some often unheard of 
-by a researcher unless they've ever visited a well-equipped lab. This can be a significant problem in clinical labs, where ensuring quality results is critical, and testing 
-can make all the difference between succumbing to an infectious disease and fighting it (@de_cock_prevention_2000). https://labmedicineblog.com/2017/11/06/the-challenges-of-clinical-laboratories-in-developing-countries/
+One of the greatest barriers to pracitising science in the developing world is the lack of access to expensive analytical instruments and equipment, some often unheard of by a researcher unless they've had the chance to visit a well-equipped lab. This can be a significant problem in clinical labs, where ensuring quality results is critical, and testing can make all the difference between succumbing to an infectious disease and fighting it [(1](https://labmedicineblog.com/2017/11/06/the-challenges-of-clinical-laboratories-in-developing-countries/), [2)](https://pubmed.ncbi.nlm.nih.gov/10703780/).
+
+One of the pioneers of the concept of 'frugal science' is [Dr. Manu Prakash](https://ui.adsabs.harvard.edu/abs/2018APS..MARP61004P/abstract) at Stanford , a physicist whose mission is to improve global health through the use of ultra-affordable devices. https://today.mims.com/frugal-science--one-man-s-quest-to-revolutionise-healthcare-and-science
 
