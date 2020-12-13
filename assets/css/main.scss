@@ -4,19 +4,11 @@
 
 @import "hydeout";
 .site-footer {
-    position:relative;
+    position:bottom;
     border-top: solid 1px #EAEAEA;
     padding: 2em 0;
     height: 480px;
     width: 10%
 }
 
-.Site {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
 
-.Site-content {
-  flex: 1;
-}
