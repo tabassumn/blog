@@ -21,18 +21,18 @@
 title: Nishat Tabassum
 email: ntabassum14@che.buet.ac.bd
 description: >- # this means to ignore newlines until "baseurl:"
-  STEM researcher and educator
+  STEM researcher and educator, teaching and studying at BUET
 baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ""
 github_username:  tabassumn
 
 # Build settings
-theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
-paginate: 5
-
+paginate: 2
+google_analytics: UA-175058241-1
 #Sidebar link settings
 sidebar_home_link: true
 
