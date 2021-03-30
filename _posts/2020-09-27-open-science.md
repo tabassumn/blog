@@ -15,3 +15,7 @@ It is not easy to innovate without relying on advanced technology at a time wher
 
 To address global challenges, a concerted effort is crucial. The onus is on the scientists themselves to make science and scientific solutions more accessible. 
 
+References:
+1. Tesfazghi, Merih T. "The Challenges Of Clinical Laboratories In Developing Countries". Lablogatory, 2017, https://labmedicineblog.com/2017/11/06/the-challenges-of-clinical-laboratories-in-developing-countries/. Accessed 21 Mar 2020.
+
+2. De Cock, K M et al. “Prevention of mother-to-child HIV transmission in resource-poor countries: translating research into policy and practice.” JAMA vol. 283,9 (2000): 1175-82. doi:10.1001/jama.283.9.1175
