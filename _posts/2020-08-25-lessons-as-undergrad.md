@@ -8,9 +8,7 @@ categories: research
 To the novice venturing into the world of research, the first skill they become adept at is cleaning glassware. Then comes tenacity. It is naive to think you will 'get' it 
 at the outset. The planning, the adjusting, the derailing of said plans down to its failure- they're all part and parcel of any research work. I've learned a few lessons, which I would 
 like to tell my sophomore self, but you really only pick up on these things as you go along. 
-
-1. It is imperative to establish a healthy relationship with disappointment earlier on: We get on average a year to work on our undergrad thesis. Since mine involved a topic completely new,
-we spent close to six months just designing the electrodes and the fuel cells. Not out of will, it's simply the nature of things.
+1. It is imperative to establish a healthy relationship with disappointment earlier on: We get on average a year to work on our undergrad thesis. In our case, we spent close to six months just designing the electrodes and the fuel cells. Not out of will, it's simply the nature of things.
 2. Prepare to be absolutely elated at one moment to completely morose the next:  
 > The LED light flickered with hope, giving life to our deflated spirits. But one glance at the data logger told us the voltage was on a precipitous drop, and this happiness wasn't going to last.  
 3. Expect that even if something *sounds* interesting, doesn't necessarily mean it's worth it: Yes quantum energy storage device is the hot topic, and yes, you've devoured the literature on it. But before you convince your supervisor (more like corner them in the hallways until they give in to your exasperating enthusiasm), find out if your lab supports the experiments, whether you can acquire all the necessary materials, and most importantly, if you're willing to improvise your strategy when you run into roadblocks and whether you have contingency plans.  
