@@ -1,4 +1,5 @@
 # blog
+All posts and documents available and handled from the source repository here.
 Open source projects used to build the site:  
 - [Jekyll](https://jekyllrb.com/)
 - [Hydeout](https://github.com/fongandrew/hydeout): an updated version of the original Jekyll theme [Hyde](https://github.com/poole/hyde)
